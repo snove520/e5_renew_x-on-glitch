@@ -1,6 +1,6 @@
 # e5_renew_x-on-glitch
  
-You can deploy this repository to Glitch by clicking [this link](https://glitch.com/edit/#!/import/git?url=https://github.com/k0baya/e5_renew_x-on-glitch).
+You can deploy this repository to Glitch by clicking [this link](https://glitch.com/edit/#!/import/git?url=https://github.com/snove520/e5_renew_x-on-glitch).
 
 >Click the **PREVIEW** button at the bottom, chose **Preview in a new window**, then you can get what you want.
 
